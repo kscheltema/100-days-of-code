@@ -21,7 +21,9 @@ y/index.html(the file)
 
 ### Day 2: June 28, 2022 
 **Today's Progress:** I got a return on a console.log from firestore
+
 **Thoughts:** credit to (CRUD Tutorial Using React + Firebase | Firebase 9 and Firestore Tutorial), I am having difficulty remembering how and where to apply key. 
+
 **Link to work:** The commits was trashed, so redit yesterdays commits. 
 ... I played around with styling based on this Page Component. I saw bugs so removed the code and made a not for a new branch. 
 
