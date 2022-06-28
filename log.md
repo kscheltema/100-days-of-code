@@ -28,23 +28,35 @@ y/index.html(the file)
 ... I played around with styling based on this Page Component. I saw bugs so removed the code and made a not for a new branch. 
 
 import * as React from "react";
+
 import { firestoreDB } from "../firebase-config";
+
 import { collection, getDocs } from "@firebase/firestore";
 
 const BlogDetail = () => {
+
   const [blogItem, setBlogItem] = React.useState([]);
+  
   const blogListRef = collection(firestoreDB, "blog_list");
+  
 
   React.useEffect(() => {
+  
     const getBlogItem = async () => {
+    
       const dataFB = await getDocs(blogListRef);
+      
       console.log("This is Firebase", dataFB);
+      
     };
 
     getBlogItem();
+    
   }, [blogListRef]);
+  
 
   return <div></div>;
+  
 };
 
 ### Day 3: June 29, 2022 
