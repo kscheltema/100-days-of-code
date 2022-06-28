@@ -41,7 +41,6 @@ const BlogDetail = () => {
   
 
   React.useEffect(() => {
-  
     const getBlogItem = async () => {
     
       const dataFB = await getDocs(blogListRef);
@@ -51,13 +50,10 @@ const BlogDetail = () => {
     };
 
     getBlogItem();
-    
   }, [blogListRef]);
   
-
   return <div></div>;
-  
-};
+  };
 
 ### Day 3: June 29, 2022 
 **Today's Progress:**
