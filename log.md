@@ -26,6 +26,7 @@ y/index.html(the file)
 
 **Link to work:** The commits was trashed, so redit yesterdays commits. 
 ... I played around with styling based on this Page Component. I saw bugs so removed the code and made a not for a new branch. 
+see screenshot in my tweet @KobusScheltema
 
 import * as React from "react";
 
@@ -58,11 +59,14 @@ const BlogDetail = () => {
 ### Day 3: June 29, 2022 
 **Today's Progress:** Not much is made in terms of progress. Integrating an example to work within existing code-base is the problem. useState has been partially successfully replaced with Redux. the set part of useState is the problem. Since this is not hardcoded but expected to be received from the user. 
 **Thoughts:** the working codebase file, is to be shelved, and replaced with a pseudo code base for the relevant file working from a different example. 
-**Link to work:** ![image](https://user-images.githubusercontent.com/82137766/176489510-6fe00679-8bdc-467f-828a-5afa02ac9d11.png) ![image](https://user-images.githubusercontent.com/82137766/176489737-ea6b1d93-5321-4957-b87e-fa68030d8603.png)
-![image](https://user-images.githubusercontent.com/82137766/176489805-6599c522-ba39-468c-901e-2986d2af4efd.png)
-
+**Link to work:** see screenshot in my tweet @KobusScheltema
 
 ### Day 4: June 30, 2022 
+**Today's Progress:** Based on a guide I redesigned my BlogList and recreated BlogDetail page with all data being retrived from the FireStore.
+**Thoughts:** Design probably not the best the function exists, Need to redesign BlogCreate and run anoter test post. 
+**Link to work:** see screenshot in my tweet @KobusScheltema
+
+### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
 **Link to work:**
