@@ -67,6 +67,12 @@ const BlogDetail = () => {
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
 ### Day 5: July 1, 2022 
+**Today's Progress:** Some CSS victories: Had a a background distorted before now seperate color properties no distortion, rendering images some not suitable with map function and TypeScript happy about it. 
+**Thoughts:** Redesigning existing work feels like 2 steps back 1 step forward. 
+**Link to work:** see screenshot in my tweet @KobusScheltema
+
+
+### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
 **Link to work:**
