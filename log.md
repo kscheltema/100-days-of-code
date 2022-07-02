@@ -72,6 +72,11 @@ const BlogDetail = () => {
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
 
+### Day 6: July 2, 2022 
+**Today's Progress:** I fixed the icons they all have no background now. Download button moved.
+**Thoughts:** Not much done today ;(
+**Link to work:**  see screenshot in my tweet @KobusScheltema
+
 ### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
