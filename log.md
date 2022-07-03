@@ -77,6 +77,11 @@ const BlogDetail = () => {
 **Thoughts:** Not much done today ;(
 **Link to work:**  see screenshot in my tweet @KobusScheltema
 
+### Day 7: July 3, 2022 
+**Today's Progress:** More refactor items complete and the impacts managed on the header. Header, Footer and LogoContainer has conditional css based on screen sizes. 
+**Thoughts:** Need to work on rendering a singular Blog Item.
+**Link to work:**  see screenshot in my tweet @KobusScheltema
+
 ### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
