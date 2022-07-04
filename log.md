@@ -82,6 +82,11 @@ const BlogDetail = () => {
 **Thoughts:** Need to work on rendering a singular Blog Item.
 **Link to work:**  see screenshot in my tweet @KobusScheltema
 
+### Day 8: July 4, 2022 
+**Today's Progress:** Footer, Header and some pages tested for SX, SM, MD and LG. Refactor largely complete, out for comments. 
+**Thoughts:** Difficult to make lots of progress with MUI docs is offline. I am in the begining stages of rendering a individual Blog. 
+**Link to work:** see screenshot in my tweet @KobusScheltema
+
 ### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
