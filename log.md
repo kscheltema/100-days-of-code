@@ -87,6 +87,11 @@ const BlogDetail = () => {
 **Thoughts:** Difficult to make lots of progress with MUI docs is offline. I am in the begining stages of rendering a individual Blog. 
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
+### Day 9: July 5, 2022 
+**Today's Progress:** Blog Form basics is in place. 
+**Thoughts:** I got lost today, and followed a rabit. My mentor helped me back onto the narrow Path. 
+**Link to work:** see screenshot in my tweet @KobusScheltema
+
 ### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
