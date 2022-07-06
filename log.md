@@ -93,7 +93,7 @@ const BlogDetail = () => {
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
 ### Day 10: July 6, 2022 
-**Today's Progress:** Tab Pannel on Auth refactor in place.
+**Today's Progress:** Tab Pannel on Auth refactor in place. Frameworks and Languages height adjusted sligtily for better presentation on various screen sizes.
 **Thoughts:** Need to sort out useFormik bugs.
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
