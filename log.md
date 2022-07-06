@@ -92,6 +92,11 @@ const BlogDetail = () => {
 **Thoughts:** I got lost today, and followed a rabit. My mentor helped me back onto the narrow Path. 
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
+### Day 10: July 6, 2022 
+**Today's Progress:** Tab Pannel on Auth refactor in place.
+**Thoughts:** Need to sort out useFormik bugs.
+**Link to work:** see screenshot in my tweet @KobusScheltema
+
 ### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
