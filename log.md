@@ -97,6 +97,11 @@ const BlogDetail = () => {
 **Thoughts:** Need to sort out useFormik bugs.
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
+### Day 11: July 7, 2022 
+**Today's Progress:** Created a new repository for a Count Down Timer. Implemented fixes for bug related to poor usage of Yup. Overhauled the usage of Formik.
+**Thoughts:** Sometimes old code is starring at you and your looking at somethikng different. 
+**Link to work:** https://github.com/kscheltema/js_timer.git see screenshot in my tweet @KobusScheltema
+
 ### Day 5: July 1, 2022 
 **Today's Progress:** 
 **Thoughts:**
