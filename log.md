@@ -102,7 +102,12 @@ const BlogDetail = () => {
 **Thoughts:** Sometimes old code is starring at you and your looking at somethikng different. 
 **Link to work:** https://github.com/kscheltema/js_timer.git see screenshot in my tweet @KobusScheltema
 
-### Day 5: July 1, 2022 
-**Today's Progress:** 
-**Thoughts:**
-**Link to work:**
+### Day 12: July 8, 2022 
+**Today's Progress:** So the branch blog_post_firestore was merged after clearing errors and warnings. Then I worked on a Forgot Password functionality.
+**Thoughts:** Forgot Password functionality is loadable on npm start, but non-responsive bug and a <p> - children warning. I have to clear this error after I found it and then work on the non-responsive bugs. Identifying an creating an example for sendPasswordResetEmail from FireBase needs credit for this YouTube video. https://www.youtube.com/watch?v=XD3e_DDKBww
+**Link to work:** see screenshot in my tweet @KobusScheltema
+
+ ### Day 13: July 9, 2022 
+ **Today's Progress:**
+ **Thoughts:**
+ **Link to work:** 
