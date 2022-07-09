@@ -108,6 +108,14 @@ const BlogDetail = () => {
 **Link to work:** see screenshot in my tweet @KobusScheltema
 
  ### Day 13: July 9, 2022 
+ **Today's Progress:** No noteworthy proggress to report.
+ **Thoughts:**  Will try a different branch if a solution doesz not present itself.
+ **Link to work:** I am trying to locate an source of an error: trying to locate where 
+<fieldset> cannot appear as a descendant of <p>.
+ Then I went to a different branch where I am faced with since my older code is not accepted in my choosen platform without a warning. 
+ Missing radix parameter.
+ 
+  ### Day 13: July 9, 2022 
  **Today's Progress:**
  **Thoughts:**
  **Link to work:** 
