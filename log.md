@@ -116,6 +116,6 @@ const BlogDetail = () => {
  Missing radix parameter.
  
   ### Day 13: July 9, 2022 
- **Today's Progress:**
+ **Today's Progress:** time_js conversion simple solution to "Missing Radix Parameter" in ParseInt(what to convert, how many decimals)
  **Thoughts:**
- **Link to work:** 
+ **Link to work:** https://codesandbox.io/s/confident-cookies-lom50s?file=/src/App.js
