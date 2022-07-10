@@ -115,7 +115,12 @@ const BlogDetail = () => {
  Then I went to a different branch where I am faced with since my older code is not accepted in my choosen platform without a warning. 
  Missing radix parameter.
  
-  ### Day 13: July 9, 2022 
- **Today's Progress:** time_js conversion simple solution to "Missing Radix Parameter" in ParseInt(what to convert, how many decimals)
- **Thoughts:**
+  ### Day 14: July 10, 2022 
+ **Today's Progress:** time_js conversion simple solution to "Missing Radix Parameter" in ParseInt(what to convert, how many decimals). The <p> tage with children error was found eventually. Forgot Password is tested and email sent to junk. 
+ **Thoughts:** Coppying code can lead to errors. Docs is somethimes written for a basic example. Here Firebase docs is better in that they ellude to what should be within something. 
  **Link to work:** https://codesandbox.io/s/confident-cookies-lom50s?file=/src/App.js
+
+   ### Day 14: July 10, 2022 
+  **Today's Progress:** 
+  **Thoughts:** 
+  **Link to work:** 
