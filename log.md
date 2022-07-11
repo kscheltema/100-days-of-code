@@ -118,9 +118,15 @@ const BlogDetail = () => {
   ### Day 14: July 10, 2022 
  **Today's Progress:** time_js conversion simple solution to "Missing Radix Parameter" in ParseInt(what to convert, how many decimals). The <p> tage with children error was found eventually. Forgot Password is tested and email sent to junk. 
  **Thoughts:** Coppying code can lead to errors. Docs is somethimes written for a basic example. Here Firebase docs is better in that they ellude to what should be within something. 
- **Link to work:** https://codesandbox.io/s/confident-cookies-lom50s?file=/src/App.js
+ **Link to work:** https://codesandbox.io/s/confident-cookies-lom50s?file=/src/App.js see screenshot in my tweet @KobusScheltema
 
-   ### Day 14: July 10, 2022 
+   ### Day 15: July 11, 2022 
   **Today's Progress:** 
   **Thoughts:** 
   **Link to work:** 
+ 
+    ### Day 14: July 10, 2022 
+  **Today's Progress:** Completed my 404 page, Got the id from a onClick, for rendering my Detail page from the List.  
+  **Thoughts:** I tried props, Max and YouTube based on Max I should load my data with my ID as reference from my server. Doing this is my new challenge. 
+  **Link to work:** see screenshot in my tweet @KobusScheltema; React - The Complete Guide (incl Hooks, React Router, Redux): video 290
+
