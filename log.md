@@ -128,6 +128,11 @@ const BlogDetail = () => {
     ### Day 16: July 12, 2022 
   **Today's Progress:** I was able to fetch a single doc from the FireStore.
   **Thoughts:** (JS filter,find) not a good plan its FireStore thus FireStore functions. The Net Ninja was helpful in the "Getting Started with Firebase 9 #9 - Fetching a Single Document" video https://www.youtube.com/watch?v=lZzd8zurolg
+ Need to transform this Object into an Array, difficult to access or manage atm. 
 
-  **Link to work:** 
+  **Link to work:**  see screenshot in my tweet @KobusScheltema
 
+     ### Day 16: July 12, 2022 
+ **Today's Progress:** 
+ **Thoughts:**
+ **Link to work:**
