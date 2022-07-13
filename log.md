@@ -132,8 +132,11 @@ const BlogDetail = () => {
 
   **Link to work:**  see screenshot in my tweet @KobusScheltema
 
-     ### Day 16: July 12, 2022 
+     ### Day 17: July 13, 2022 
  **Today's Progress:** The different ways to not access known items within a Object. Some Minor CSS for different screen sizes. Active Styling working with no bugs possibly dirty coding. Error and Loading state conditionally implemented on the List Card item and the Detail Card Item. 
  **Thoughts:** Today with help from my Mentor Gary. I stopped trying to independantly save values from a Object and accessing them directly. Lots of CSS. Need my Mentor to review the active styling and possibly propose alternatives. Need to test the List and Detail for various screen sizes, and Body lengths. As always if you know where to find it Max is a great fallback. 
  **Link to work:** see screenshot in my tweet @KobusScheltema; React - The Complete Guide (incl Hooks, React Router, Redux): video 218 - Handling Errors
  
+ ### Day 18: July 14, 2022 
+ **Today's Progress:**
+ **Thoughts:**
