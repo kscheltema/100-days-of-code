@@ -138,5 +138,11 @@ const BlogDetail = () => {
  **Link to work:** see screenshot in my tweet @KobusScheltema; React - The Complete Guide (incl Hooks, React Router, Redux): video 218 - Handling Errors
  
  ### Day 18: July 14, 2022 
+ **Today's Progress:** Active Styling bug found and code adjusted. Single Date is recieved from FireStore, converted with toLocaleDatestring inside a useEffect otherwise promise bug. 
+ **Thoughts:** Not much was done. A List Dates needs to be converted from the FireStore, current bug no change or change with a console.log.
+ **Link to work:** see screenshot in my tweet @KobusScheltema;
+ 
+  ### Day 18: July 14, 2022 
  **Today's Progress:**
  **Thoughts:**
+ **Link to work:**
