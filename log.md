@@ -147,7 +147,7 @@ const BlogDetail = () => {
  **Thoughts:** Struggling to dynamically change the background image for BlogDetail page and change it back when the user moves away. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema;
 
-   ### Day 19: July 15, 2022 
+   ### Day 20: July 16, 2022 
   **Today's Progress:** Conditional styling for BlogDetail page implemented making it vastly different from rest of the Website. 
   **Thoughts:** Still many features to implement in the BlogDetail page to bring it aligned with real life examples. Currently trying to move and display a Hero image when on this page. 
   **Link to work:**  **Link to work:** see screenshot(s) in my tweet @KobusScheltema;
