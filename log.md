@@ -152,9 +152,14 @@ const BlogDetail = () => {
   **Thoughts:** Still many features to implement in the BlogDetail page to bring it aligned with real life examples. Currently trying to move and display a Hero image when on this page. 
   **Link to work:**  see screenshot(s) in my tweet @KobusScheltema;
  
-    ### Day 20: July 16, 2022 
+    ### Day 21: July 17, 2022 
    **Today's Progress:** I accepted that the environment to enter as a Junior Deverloper is not great. So In consultation with my Mentor Gary. I have decided to finish the the-complete-junior-to-senior-web-developer-roadmap. So far I have read a bunch of articles linked to the course, and did up to video 7 so far. 
  https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work
  https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/
    **Thoughts:** It sucks. Life in general. But I need to move forward. 
    **Link to work:** see screenshot(s) in my tweet @KobusScheltema;
+
+  ### Day 22: July 18, 2022 
+ **Today's Progress:** I downloaded and started testing Git Bash. I created a SSH key.
+ **Thoughts:** I need to successfully log into the server. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema;
