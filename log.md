@@ -163,3 +163,8 @@ const BlogDetail = () => {
  **Today's Progress:** I downloaded and started testing Git Bash. I created a SSH key.
  **Thoughts:** I need to successfully log into the server. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema;
+ 
+ ### Day 23: July 19, 2022 
+ **Today's Progress:** I am still testing Git Bash. I was not yet able to log into Digital Ocean from Git Bash.
+ **Thoughts:** I need to successfully log into the server. I am Windows and my instructor and mentor is using a Mac.
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema; 
