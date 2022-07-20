@@ -168,3 +168,10 @@ const BlogDetail = () => {
  **Today's Progress:** I am still testing Git Bash. I was not yet able to log into Digital Ocean from Git Bash.
  **Thoughts:** I need to successfully log into the server. I am Windows and my instructor and mentor is using a Mac.
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema; 
+ 
+  ### Day 24: July 20, 2022 
+ **Today's Progress:** I am still testing Git Bash. I was able to add my Identity. I was not yet able to log into Digital Ocean from Git Bash.
+ **Thoughts:** I need to successfully log into the server. The error where I am stuck. 
+ $ ssh root@{ip address} 
+Unable to negotiate with {ip address} port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema; 
