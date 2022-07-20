@@ -170,8 +170,9 @@ const BlogDetail = () => {
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema; 
  
   ### Day 24: July 20, 2022 
- **Today's Progress:** I am still testing Git Bash. I was able to add my Identity. I was not yet able to log into Digital Ocean from Git Bash.
+ **Today's Progress:** I am still testing Git Bash. I was able to add my Identity. I was not yet able to log into Digital Ocean from Git Bash. I started testing PuTTY and was able to generate a key and upload the key to the server. 
  **Thoughts:** I need to successfully log into the server. The error where I am stuck. 
  $ ssh root@{ip address} 
 Unable to negotiate with {ip address} port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
+ With interaction with the server with aid of Twitter, I am required as I understand to do a maiden instalation by the server. This is where I believe my bug lies.  
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema; 
