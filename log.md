@@ -176,3 +176,7 @@ const BlogDetail = () => {
 Unable to negotiate with {ip address} port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
  With interaction with the server with aid of Twitter, I am required as I understand to do a maiden instalation by the server. This is where I believe my bug lies.  
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema, https://docs.digitalocean.com/products/spaces/quickstart/#upload-and-delete-files https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/to-team/ https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/to-existing-droplet/ https://www.chiark.greenend.org.uk/~sgtatham/putty/docs.html
+ 
+   ### Day 25: July 21, 2022 
+ **Today's Progress:** I have read and made notes on PuTTy doc Chapter 3 and 4. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
