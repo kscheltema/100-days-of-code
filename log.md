@@ -178,5 +178,5 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema, https://docs.digitalocean.com/products/spaces/quickstart/#upload-and-delete-files https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/to-team/ https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/to-existing-droplet/ https://www.chiark.greenend.org.uk/~sgtatham/putty/docs.html
  
    ### Day 25: July 21, 2022 
- **Today's Progress:** I have read and made notes on PuTTy doc Chapter 3 and 4. 
+ **Today's Progress:** I have read and made notes on PuTTy doc Chapter 3 and 4. I was able to upload a repository to Digital Ocean, not tested futher since PuTTY doc not finished. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
