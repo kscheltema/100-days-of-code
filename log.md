@@ -181,6 +181,6 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
  **Today's Progress:** I have read and made notes on PuTTy doc Chapter 3 and 4. I was able to upload a repository to Digital Ocean, not tested futher since PuTTY doc not finished. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-    ### Day 25: July 22, 2022 
+    ### Day 26: July 22, 2022 
  **Today's Progress:** I have read and made notes on PuTTy doc Chapter 5 and the last bit of 4. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
