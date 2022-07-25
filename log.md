@@ -192,3 +192,8 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   ### Day 28: July 24, 2022 
   **Today's Progress:** I am finally done reading and making notes on the PuTTY documents, Chapter 8, 9 and 10.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+ ### Day 29: July 25, 2022 
+ **Today's Progress:** Having played around with BPuTTY and the Digital Ocean server, the droplet I have see how to not establish a connection. Now everything has to be reestablished. 
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
