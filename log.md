@@ -197,8 +197,16 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
  **Today's Progress:** Having played around with BPuTTY and the Digital Ocean server, the droplet I have see how to not establish a connection. Now everything has to be reestablished. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-  ### Day 30: July 25, 2022 
+  ### Day 30: July 26, 2022 
  **Today's Progress:** A connection to the Digital Ocean server from my computer was established today. Then finished 6 episodes of section 2 in the The Complete Junior to Senior Web Developer Roadmap (2022) course. 
  **Thoughts:** It looks easy enough. Everything to the point of connection is server connection fail or not. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
+  ### Day 31: July 27, 2022 
+  **Today's Progress:** I have done research on where is best to use which image types in Web Development. My conclusion based on the research was:
+•	svg for graphs or diagrams 
+•	pdf for display documents 
+•	png general web graphics
+•	jpeg photos or artwork
+  **Thoughts:** I need to put more time into studies in the morning. 
+**Link to work:** see screenshot(s) in my tweet @KobusScheltema.
