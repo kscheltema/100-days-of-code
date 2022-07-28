@@ -210,3 +210,8 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
 •	jpeg photos or artwork
   **Thoughts:** I need to put more time into studies in the morning. 
 **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+ ### Day 32: July 28, 2022 
+ **Today's Progress:** Worked through some theory on how to reduce images size, while retaining end-user quality. I have created a repository for the first exercise for section 2. 
+ **Thoughts:** Having some permission issues that I need to sort out before doing the exercise. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
