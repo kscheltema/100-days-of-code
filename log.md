@@ -215,3 +215,8 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
  **Today's Progress:** Worked through some theory on how to reduce images size, while retaining end-user quality. I have created a repository for the first exercise for section 2. 
  **Thoughts:** Having some permission issues that I need to sort out before doing the exercise. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+  ### Day 33: July 29, 2022 
+  **Today's Progress:** I have completed the theory on Critical Render Path. I have made some commits to GitHub as examples. 
+  **Thoughts:** I broke my GitHub link, another task for tomorrow.
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
