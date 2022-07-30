@@ -220,3 +220,10 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   **Today's Progress:** I have completed the theory on Critical Render Path. I have made some commits to GitHub as examples. 
   **Thoughts:** I broke my GitHub link, another task for tomorrow.
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+  ### Day 34: July 30, 2022 
+ **Today's Progress:** I have with some help restored GitHub to display my commits, I have practices Critical Render Path with exercise 3. 
+ **Thoughts:** I need to fork a repository and do exercise 4.
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+ 
