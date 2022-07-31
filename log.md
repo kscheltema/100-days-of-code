@@ -226,4 +226,7 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
  **Thoughts:** I need to fork a repository and do exercise 4.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
- 
+   ### Day 35: July 31, 2022 
+  **Today's Progress:** I have cloned a repository num 52 from Udemy course "The Complete Junior to Senior Web Developer Roadmap (2022)"
+  **Thoughts:** I have a bug that I need to sort out, this whole not "npm start" is new to me. I need a valid URL to be able to analyse. Possibly have to publish the site on a server?
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
