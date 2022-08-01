@@ -230,3 +230,8 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   **Today's Progress:** I have cloned a repository num 52 from Udemy course "The Complete Junior to Senior Web Developer Roadmap (2022)"
   **Thoughts:** I have a bug that I need to sort out, this whole not "npm start" is new to me. I need a valid URL to be able to analyse. Possibly have to publish the site on a server?
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+    ### Day 36: August 1, 2022 
+  **Today's Progress:** I was able with some help from Net Ninja to set up a Udemy website on GitHub pages. https://www.youtube.com/watch?v=QyFcl_Fba-k "Getting Started with GitHub Pages". 
+  **Thoughts:**
+  **Link to work:**
