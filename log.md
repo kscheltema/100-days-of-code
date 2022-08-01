@@ -232,6 +232,6 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
 
     ### Day 36: August 1, 2022 
-  **Today's Progress:** I was able with some help from Net Ninja to set up a Udemy website on GitHub pages. https://www.youtube.com/watch?v=QyFcl_Fba-k "Getting Started with GitHub Pages". 
+  **Today's Progress:** I was able with some help from Net Ninja to set up a Udemy website on GitHub pages. https://www.youtube.com/watch?v=QyFcl_Fba-k "Getting Started with GitHub Pages". Compressing and reducing the size on images on https://tinypng.com/ download time went down from 36.6 seconds to 13.41 seconds.
   **Thoughts:**
   **Link to work:**
