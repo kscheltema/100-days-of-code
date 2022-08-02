@@ -235,3 +235,8 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   **Today's Progress:** I was able with some help from Net Ninja to set up a Udemy website on GitHub pages. https://www.youtube.com/watch?v=QyFcl_Fba-k "Getting Started with GitHub Pages". Compressing and reducing the size on images on https://tinypng.com/ download time went down from 36.6 seconds to 13.41 seconds. Removed Boostrap requirements loadtime now 12.95 seconds. Removed JQuery loadtime now 10.97 seconds. Compressed other images loadtime now 10.74 seconds.
   **Thoughts:** Squash of css and use of Defer had no clear benefit. Something changed now load time is back on 13.39 Seconds. Solution video next. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+     ### Day 36: August 1, 2022
+   **Today's Progress:** Today I finised up until section 4: 65. In that I have practised forking and cloning a repository. I also used GitHub Pages successfully again. 
+   **Thoughts:** There is a Error on the {npm install}, will troubleshoot tomorrow. 
+   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
