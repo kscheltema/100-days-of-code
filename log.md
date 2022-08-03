@@ -241,7 +241,7 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
    **Thoughts:** There is a Error on the {npm install}, will troubleshoot tomorrow. 
    **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
 
- ### Day 37 August 2, 2022
+ ### Day 38 August 3, 2022
  **Today's Progress:** Today I finised up until section 4: 79.
  **Thoughts:** Would love to work on a challendge. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
