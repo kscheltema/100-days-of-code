@@ -240,3 +240,8 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
    **Today's Progress:** Today I finised up until section 4: 65. In that I have practised forking and cloning a repository. I also used GitHub Pages successfully again. 
    **Thoughts:** There is a Error on the {npm install}, will troubleshoot tomorrow. 
    **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+ ### Day 37 August 2, 2022
+ **Today's Progress:** Today I finised up until section 4: 79.
+ **Thoughts:** Would love to work on a challendge. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
