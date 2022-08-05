@@ -251,7 +251,7 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
  **Thoughts:** So I more aggressively started to code along, made some essentail notes for React. I need to update my code to not be class based. A Error from the latest video i need to pindown. I did do some googleing and troubleshooting. Will seek some different channels for advice tomorrow. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
 
-   ### Day 39 August 4, 2022.
+   ### Day 40 August 5, 2022.
   **Today's Progress:** My update yesterday wasnt minor thus I had to remove node_modules and package-lock.json. I have done these now and also updated React Scripts. I rolled back the attempts to update class based component for Error Boundary.  
   **Thoughts:** ErrorBoundary requires Class based compoents that works in React 18. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
