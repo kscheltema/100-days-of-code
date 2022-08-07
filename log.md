@@ -255,3 +255,29 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
   **Today's Progress:** My update yesterday wasnt minor thus I had to remove node_modules and package-lock.json. I have done these now and also updated React Scripts. I rolled back the attempts to update class based component for Error Boundary.  
   **Thoughts:** ErrorBoundary requires Class based compoents that works in React 18. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+    ### Day 41 August 6, 2022.
+   **Today's Progress:** I updated npm modules on my computer. 
+   **Thoughts:** The App is now running without warnings or errors, after a restart as well. 
+   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+     ### Day 41 August 6, 2022.
+   **Today's Progress:** I was unsuccessful to complete lecture 95 deploying of the App.
+   **Thoughts:** The error remains. 
+ PS G:\docs\github\section_4_robofriends> npm run deploy
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+> robofriends@0.1.0 predeploy
+> npm run build
+
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
