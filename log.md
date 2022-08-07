@@ -261,7 +261,7 @@ Unable to negotiate with {ip address} port 22: no matching host key type found. 
    **Thoughts:** The App is now running without warnings or errors, after a restart as well. 
    **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-     ### Day 41 August 6, 2022.
+     ### Day 42 August 7, 2022.
    **Today's Progress:** I was unsuccessful to complete lecture 95 deploying of the App.
    **Thoughts:** The error remains. 
  PS G:\docs\github\section_4_robofriends> npm run deploy
