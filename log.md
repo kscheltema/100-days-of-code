@@ -283,6 +283,6 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
    **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
  ### Day 42 August 7, 2022.
- **Today's Progress:** I am still unable to complete lecture 95. The only advice that I got from a friend is that GitHub must run from the C-drive. 
+ **Today's Progress:** I am still unable to complete lecture 95. The only advice that I got from a friend is that GitHub must run from the C-drive, I am having long term problems with said C-drive and the move to the G-drive wa\s part of the fix.  
  **Thoughts:** To continue the Study process I can either work on a different project or Study with Free-Code-Camp. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
