@@ -294,5 +294,5 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  
    ### Day 45 August 10, 2022.
   **Today's Progress:** Today I studied python loop operators and various related key words.
-  **Thoughts:** 274% in 2.1 days would hopefully mean that I would be done within two weeks or less. 
+  **Thoughts:** 27% in 2.1 days would hopefully mean that I would be done within two weeks or less. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
