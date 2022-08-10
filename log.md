@@ -291,3 +291,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Today's Progress:** Today I studied python opperators, if and else, the power of indenting, and other basics of python.
   **Thoughts:** 13% in 1.1 days would hopefully mean that I would be done within two weeks. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+   ### Day 45 August 10, 2022.
+  **Today's Progress:** Today I studied python loop operators and various related key words.
+  **Thoughts:** 274% in 2.1 days would hopefully mean that I would be done within two weeks or less. 
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
