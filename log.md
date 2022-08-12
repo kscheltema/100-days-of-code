@@ -301,3 +301,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Today's Progress:** Today I studied python string and open related functions.
   **Thoughts:** 34% in 3.1 days would hopefully mean that I would be done within two weeks or less. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+     ### Day 47 August 12, 2022.
+  **Today's Progress:** Today I studied python Data Structures, Tuples and Regular Expressions.
+  **Thoughts:** 48% in 4.1 days would hopefully mean that I would be done within two weeks or less. 
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
