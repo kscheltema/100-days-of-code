@@ -307,7 +307,7 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Thoughts:** 48% in 4.1 days would hopefully mean that I would be done within two weeks or less. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-      ### Day 47 August 12, 2022.
+      ### Day 48 August 13, 2022.
   **Today's Progress:** Today I studied more Regular Expressions and application protocol with Python.
   **Thoughts:** 61% in 5.1 days would hopefully mean that I would be done within two weeks or less. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
