@@ -316,3 +316,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Today's Progress:** Today I studied the different ways that Python integrates with the web.
   **Thoughts:** 70% in 6.1 days would hopefully mean that I would be done within two weeks or less. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+        ### Day 50 August 15, 2022.
+  **Today's Progress:** Today I studied classes and the related objects in Python.
+  **Thoughts:** 82% in 7.1 days would hopefully mean that I would be done within two weeks or less. 
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
