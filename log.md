@@ -326,3 +326,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Today's Progress:** I practised for interviews.
   **Thoughts:** I Forgot some of my JavaScript
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+          ### Day 52 August 17, 2022.
+  **Today's Progress:** I practised for interviews, and did some interview tests.
+  **Thoughts:** I Forgot some of my JavaScript, I will now do some JavaScript everyday, need to find alternative for FreeCodeCamp. 
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
