@@ -336,3 +336,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Today's Progress:** I went through some JavaScript Algorithms and Data Structures - Basic Algorithm Scripting in Free Code Camp. 
   **Thoughts:** I tried to carry on with the Python Course there was a problem with the instalation. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+         ### Day 54 August 19, 2022.
+  **Today's Progress:** Today I used map and find in JavaScript fCC to use a function recieved in a parameter to find a match or not from an array. Then I carried on with the Python Course. 
+  **Thoughts:** 84% in 8 days would hopefully mean that I would be done within two weeks or less with the Python Course. 
+  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
