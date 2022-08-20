@@ -341,3 +341,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
   **Today's Progress:** Today I used map and find in JavaScript fCC to use a function recieved in a parameter to find a match or not from an array. Then I carried on with the Python Course. 
   **Thoughts:** 84% in 8 days would hopefully mean that I would be done within two weeks or less with the Python Course. 
   **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+### Day 55 August 20, 2022.
+ **Today's Progress:** Today I used map, split, join, uppercase, char and lowercase in JavaScript fCC to capitalise the first letter of each word, check if a variable is Boolean.
+ **Thoughts:**  Then I tried in vain to carry on with the Python Course. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
