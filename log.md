@@ -350,4 +350,9 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  ### Day 56 August 21, 2022.
  **Today's Progress:** Today I used splice to insert an array within an array, and used a filter and Boolean to remove falsy values.
  **Thoughts:**  I need to resume the Python Course, using a newly found guide. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema..
+ 
+  ### Day 56 August 21, 2022.
+ **Today's Progress:** Got some help to setup SQlite.
+ **Thoughts:**  I need to resume the Python Course, the lecturer is using a DataBase browser. Need to investigate that. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
