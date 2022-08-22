@@ -353,6 +353,6 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema..
  
   ### Day 56 August 21, 2022.
- **Today's Progress:** Got some help to setup SQlite.
+ **Today's Progress:** Got some help to setup SQlite. I with FFC made a function that takes an Array and using a number finds one idex smaller. Then suggest to use one index larger. 
  **Thoughts:**  I need to resume the Python Course, the lecturer is using a DataBase browser. Need to investigate that. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
