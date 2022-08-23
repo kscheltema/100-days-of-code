@@ -356,3 +356,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** Got some help to setup SQlite. I with FFC made a function that takes an Array and using a number finds one index smaller. Then suggest to use one index larger. 
  **Thoughts:**  I need to resume the Python Course, the lecturer is using a DataBase browser. Need to investigate that. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+   ### Day 57 August 22, 2022.
+ **Today's Progress:** I with FFC made a function that checks if all characters of a parameter can be found in another parameter. The second challendge An array was sliced according to the provided size and then storred in an array. 
+ **Thoughts:**  I need to figure out DataBase Browser. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
