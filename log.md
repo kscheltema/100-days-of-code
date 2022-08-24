@@ -361,3 +361,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** I with FFC made a function that checks if all characters of a parameter can be found in another parameter. The second challendge An array was sliced according to the provided size and then storred in an array. 
  **Thoughts:**  I need to figure out DataBase Browser. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+    ### Day 59 August 24, 2022.
+ **Today's Progress:** With fCC i made objects and accessed them, use this with objects. In the Python course I used CRUD functions in a SQlite database with DataBase Browser. 
+ **Thoughts:**  I am Tired. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
