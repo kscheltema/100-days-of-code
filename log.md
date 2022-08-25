@@ -366,3 +366,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** With fCC i made objects and accessed them, use this with objects. In the Python course I used CRUD functions in a SQlite database with DataBase Browser. 
  **Thoughts:**  I am Tired. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+     ### Day 60 August 25, 2022.
+ **Today's Progress:** With fCC i made objects with properties and accessed them. In the Python course I did an introduction to Relational Databases and Relationship Building
+ **Thoughts:** I didnt spend that much time on studies today, too much real life interferance.
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
