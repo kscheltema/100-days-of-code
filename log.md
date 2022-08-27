@@ -376,3 +376,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** With fCC i utilised objects with properties. In the Python course I did some Relational Databases and Relationship Building
  **Thoughts:** Doesnt always feel like there is progress. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+       ### Day 62 August 27, 2022.
+ **Today's Progress:** With fCC i utilised objects with functions. In the Python I finished it. 
+ **Thoughts:** On to the next language to study. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
