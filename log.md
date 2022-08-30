@@ -393,6 +393,6 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
           ### Day 64 August 29, 2022.
- **Today's Progress:** I am, working through a guide on Python for Windows.
+ **Today's Progress:** I am, working through a guide on Python for Windows. In fCC JavaScript i practised a bit of Object Orientated programing. 
  **Thoughts:** On to the next language to study, after the Python assesment.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
