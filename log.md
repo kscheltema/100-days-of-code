@@ -391,3 +391,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** I installed python v3, and read through the beginers documentation https://wiki.python.org/moin/BeginnersGuide and https://wiki.python.org/moin/BeginnersGuide/Download
  **Thoughts:** On to the next language to study, after the Python assesment.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+          ### Day 64 August 29, 2022.
+ **Today's Progress:** I am, working through a guide on Python for Windows.
+ **Thoughts:** On to the next language to study, after the Python assesment.
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
