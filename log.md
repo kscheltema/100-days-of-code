@@ -396,3 +396,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** I am, working through a guide on Python for Windows. In fCC JavaScript i practised a bit of Object Orientated programing. 
  **Thoughts:** On to the next language to study, after the Python assesment.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+          ### Day 65 August 30, 2022.
+ **Today's Progress:** I started coding on a in Python and successfully printed a user input. I also practised Object Oriented Programming in fCC.
+ **Thoughts:** Need to add more complexsity. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
