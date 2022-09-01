@@ -382,22 +382,27 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Thoughts:** On to the next language to study. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-        ### Day 62 August 27, 2022.
+        ### Day 63 August 28, 2022.
  **Today's Progress:** I did some preparations for the Python practical.  
  **Thoughts:** On to the next language to study, after the Python assesment.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-         ### Day 63 August 28, 2022.
+         ### Day 64 August 29, 2022.
  **Today's Progress:** I installed python v3, and read through the beginers documentation https://wiki.python.org/moin/BeginnersGuide and https://wiki.python.org/moin/BeginnersGuide/Download
  **Thoughts:** On to the next language to study, after the Python assesment.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-          ### Day 64 August 29, 2022.
+          ### Day 65 August 30, 2022.
  **Today's Progress:** I am, working through a guide on Python for Windows. In fCC JavaScript i practised a bit of Object Orientated programing. 
  **Thoughts:** On to the next language to study, after the Python assesment.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-          ### Day 65 August 30, 2022.
+          ### Day 66 August 31, 2022.
  **Today's Progress:** I started coding on a in Python and successfully printed a user input. I also practised Object Oriented Programming in fCC.
  **Thoughts:** Need to add more complexsity. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+           ### Day 67 September 01, 2022.
+ **Today's Progress:**  I also practised Object Oriented Programming in fCC. I started the Elixir course on Udemy.
+ **Thoughts:** I feel like i know to little about Python to make the jump between the two courses.  
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
