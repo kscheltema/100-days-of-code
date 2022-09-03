@@ -411,3 +411,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  I also practised Object Oriented Programming in fCC. I spend most of my time today figuring out whats wrong with the Elixir code. 
  **Thoughts:** I feel like Windows sucks. Most cources is presented in a Mac then I truggle weaving though Windows problems. That said my code from the instalation command was the problem. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+             ### Day 69 September 03, 2022.
+ **Today's Progress:**  I also practised Object Oriented Programming in fCC. I removed Elixir and attempted a re-instalation, that did not go as planned.  
+ **Thoughts:** Little progress to show for today. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
