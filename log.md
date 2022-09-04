@@ -413,6 +413,6 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
              ### Day 69 September 03, 2022.
- **Today's Progress:**  I also practised Object Oriented Programming in fCC. I removed Elixir and attempted a re-instalation, that did not go as planned.  
- **Thoughts:** Little progress to show for today. 
+ **Today's Progress:**  I also practised Object Oriented Programming in fCC. I removed Elixir and did re-instalation the build command worked as expected. Now the run command is the next bug.   
+ **Thoughts:** Getting nowhere.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
