@@ -423,6 +423,6 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
                ### Day 71 September 05, 2022.
- **Today's Progress:**  I practised Object Oriented Programming in fCC. I practised how to run Elixir Code, and learned a bit about Enum with the shuffle method.  
+ **Today's Progress:**  I practised anonymous function in fCC. I practised how to run Elixir Code, and learned a bit about Enum with the shuffle method.  
  **Thoughts:** Peercoding helps. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
