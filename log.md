@@ -426,3 +426,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  I practised anonymous function in fCC. I practised how to run Elixir Code, and learned a bit about Enum with the shuffle method.  
  **Thoughts:** Peercoding helps. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+
+                ### Day 72 September 06, 2022.
+ **Today's Progress:**  I practised combining functions in fCC. In Elixir I build a deck of cards.   
+ **Thoughts:** Didnt get to peercode today ;(
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
