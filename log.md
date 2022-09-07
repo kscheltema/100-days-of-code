@@ -431,3 +431,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  I practised combining functions in fCC. In Elixir I build a deck of cards.   
  **Thoughts:** Didnt get to peercode today ;(
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                 ### Day 73 September 07, 2022.
+ **Today's Progress:**  I practised combining functions in fCC. In Elixir I practised Pattern Matching section 2 in the Udemy course "The Complete Elixir and Phoenix Bootcamp". 
+ **Thoughts:** putting a underscore before a variable tells the compiler that for Pattern Matching the variable is required. However the variable will not be used. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
