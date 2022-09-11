@@ -451,3 +451,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  In Elixir I practised some Pattern Matching, then I went on to practise documentation in the Udemy course "The Complete Elixir and Phoenix Bootcamp". 
  **Thoughts:** I ran into a error. Will close and try that again tomorrow, and trouble shoot, and ask help in that order. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                    ### Day 77 September 11, 2022.
+ **Today's Progress:**  In Elixir I tried documentation, upon getting the same results i made a post on the forums. 
+ **Thoughts:** Sucks when your stuck and have no clear path forward in the present. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
