@@ -453,6 +453,6 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
                     ### Day 77 September 11, 2022.
- **Today's Progress:**  In Elixir I tried documentation, upon getting the same results i made a post on the forums. The solution is quite simple do not run *{* iex -S mix *}* command
+ **Today's Progress:**  In Elixir I tried documentation, upon getting the same results i made a post on the forums. The solution is quite simple do not run *{* iex -S mix *}* command. Finally finished the document section by by-passing the terminal commands. Then practising some DocTests.
  **Thoughts:** Sucks when your stuck and have no clear path forward in the present. Next problem open doc terminal command not working on my windows computer. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
