@@ -466,3 +466,9 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  In Elixir I completed section 4 and 5, then got stuck on a error in section 6. 
  **Thoughts:** I am moving a bit faster with Elixir 45 done, the JS problem on fCC looks intimidating. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                       ### Day 79 September 13, 2022.
+ **Today's Progress:**  In Elixir in section 6, the bug fix related to chuck being depreciated and finding a suitable alternative that discards the remainder if the chunck length condition is not met.
+ `|> Enum.chunk_every(3, 3, :discard)`
+ **Thoughts:** I am moving a bit faster with Elixir 45 done, the JS problem on fCC looks intimidating. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
