@@ -474,3 +474,9 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  I sought help for fCC, and moved on.
  **Thoughts:** I am moving a bit faster with Elixir 46 done.
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                        ### Day 81 September 15, 2022.
+ **Today's Progress:**  Done untill Episdode 48.
+ I sought help for fCC, and moved on.
+ **Thoughts:** Dealt with chores at home ;(
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
