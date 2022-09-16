@@ -480,3 +480,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  I sought help for fCC, and moved on.
  **Thoughts:** Dealt with chores at home ;(
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                         ### Day 82 September 16, 2022.
+ **Today's Progress:**  I created a Identicon image creation program with "The Complete Elixir and Phoenix Bootcamp"
+ **Thoughts:** Lots of updates today. Phoenix installation bug awaits tomorrow. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
