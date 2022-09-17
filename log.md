@@ -485,3 +485,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  I created a Identicon image creation program with "The Complete Elixir and Phoenix Bootcamp"
  **Thoughts:** Lots of updates today. Phoenix installation bug awaits tomorrow. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                          ### Day 83 September 17, 2022.
+ **Today's Progress:**  I finished the video 55 of "The Complete Elixir and Phoenix Bootcamp" u
+ **Thoughts:** Installed a version of Phoenix and PostgreSQL. When everything is complete tests can be conducted.
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
