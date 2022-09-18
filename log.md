@@ -487,6 +487,11 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
                           ### Day 83 September 17, 2022.
- **Today's Progress:**  I finished the video 55 of "The Complete Elixir and Phoenix Bootcamp" u
+ **Today's Progress:**  I finished the video 55 of "The Complete Elixir and Phoenix Bootcamp"
  **Thoughts:** Installed a version of Phoenix and PostgreSQL. When everything is complete tests can be conducted.
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                           ### Day 84 September 18, 2022.
+ **Today's Progress:**  I successfully logged into PostgreSQL. I practiced how to not mutate arrays in JavaScript.
+ **Thoughts:** Tomorrow I must carry on with the Elixir course. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
