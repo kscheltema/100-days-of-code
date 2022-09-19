@@ -496,7 +496,7 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Thoughts:** Tomorrow I must carry on with the Elixir course. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
  
-                            ### Day 84 September 18, 2022.
+                            ### Day 85 September 19, 2022.
  **Today's Progress:**  I installed Phoenix, Ecto and created the relavant projects then successfully started the App. 
  **Thoughts:** Debugging with a guiding hand helps. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
