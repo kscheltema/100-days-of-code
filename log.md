@@ -495,3 +495,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  I successfully logged into PostgreSQL. I practiced how to not mutate arrays in JavaScript.
  **Thoughts:** Tomorrow I must carry on with the Elixir course. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                            ### Day 84 September 18, 2022.
+ **Today's Progress:**  I installed Phoenix, Ecto and created the relavant projects then successfully started the App. 
+ **Thoughts:** Debugging with a guiding hand helps. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
