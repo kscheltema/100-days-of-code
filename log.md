@@ -500,3 +500,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:**  I installed Phoenix, Ecto and created the relavant projects then successfully started the App. 
  **Thoughts:** Debugging with a guiding hand helps. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                             ### Day 86 September 20, 2022.
+ **Today's Progress:**  I finished the video 62 of "The Complete Elixir and Phoenix Bootcamp"
+ **Thoughts:** I have to research a command that is not displaying the index.html file in the terminal. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
