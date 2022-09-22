@@ -513,5 +513,5 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  
                                ### Day 88 September 22, 2022.
  **Today's Progress:** In order to fix the command troubles, I completed section 14 and reead up on Context. 
- **Thoughts:** Going nowhere slowly today, looking forward to some peer coding tomorrow. 
+ **Thoughts:** Need to apply section 14 to section 8 tomorrow. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
