@@ -510,3 +510,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** Based on my research on the command that is not creating a with ecto and phoenix table. I did not get very far. Then in JavaScript I practised replacing a for loop with the map function.
  **Thoughts:** Going nowhere slowly today, looking forward to some peer coding tomorrow. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                               ### Day 88 September 22, 2022.
+ **Today's Progress:** In order to fix the command troubles, I completed section 14 and reead up on Context. 
+ **Thoughts:** Going nowhere slowly today, looking forward to some peer coding tomorrow. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
