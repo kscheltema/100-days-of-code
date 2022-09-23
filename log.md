@@ -515,3 +515,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** In order to fix the command troubles, I completed section 14 and reead up on Context. 
  **Thoughts:** Need to apply section 14 to section 8 tomorrow. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                                ### Day 89 September 23, 2022.
+ **Today's Progress:** I successfully created Data tables with Phoenix and implemented the related migration. 
+ **Thoughts:** I am moving forward again!
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
