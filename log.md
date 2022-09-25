@@ -525,3 +525,9 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** Today in Elixir and Phoenix Connection and Params Struct was discussed at length. That functions as primary and secondary building blocks. This was all used as a method to unpack error handling in Elixir.
  **Thoughts:** Need to practise this few videos. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+  
+                                 ### Day 91 September 25, 2022.
+ **Today's Progress:** Today in Elixir and Phoenix I wrote up some notes and implemeted them inside of VScode, then finihsed section 8.
+ **Thoughts:** On to section 9, and getting better from flu?
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
