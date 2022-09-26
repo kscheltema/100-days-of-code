@@ -531,3 +531,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** Today in Elixir and Phoenix I wrote up some notes and implemeted them inside of VScode, then finihsed section 8.
  **Thoughts:** On to section 9, and getting better from flu?
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                                  ### Day 91 September 25, 2022.
+ **Today's Progress:** Today in Elixir and Phoenix I finished until video 76. 
+ **Thoughts:** Got stuck on a render error. Made a post about it on the Elixir Forums. 
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
