@@ -536,3 +536,8 @@ Error: Cannot find module 'G:\node_modules\npm\bin\npm-cli.js'
  **Today's Progress:** Today in Elixir and Phoenix I finished until video 76. 
  **Thoughts:** Got stuck on a render error. Made a post about it on the Elixir Forums. 
  **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
+ 
+                                   ### Day 01 November 01, 2022.
+ **Today's Progress:** I started with a new Elixir Course Today https://alchemist.camp/episodes/guessing-game**** I also finished (for now) my count up timer. 
+ **Thoughts:** second attempt at the 100 days.
+ **Link to work:** see screenshot(s) in my tweet @KobusScheltema.
